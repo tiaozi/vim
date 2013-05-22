@@ -25,4 +25,17 @@
 
 <http://www.taobao.com>
 
-[1]:    http://www.taobao.com   "taobao"
+I get 10 times more traffic from [Google][1] Than from [Yahoo][2] or [MSN][3].
+
+[1]:http://www.google.com/ "Google"
+[2]:http://search.yahoo.com/ "Yahoo Search"
+[3]:http://search.smn.com/ "MSN Search"
+
+![alt text](https://secure.gravatar.com/avatar/89bbfb169f008b30a569c2de6b3e62f7?s=140&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png "title")
+`
+public class Hello{
+    public static void main(String []args){
+        System.out.println("Hello");
+    }
+}
+`
