@@ -38,3 +38,9 @@ I get 10 times more traffic from [Google][1] Than from [Yahoo][2] or [MSN][3].
             System.out.println("Hello");
         }    
     }
+
+    public class HelloWorld{
+        public static void main(String []args){
+            System.out.println("HelloWorld");
+        }
+    }

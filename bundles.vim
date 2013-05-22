@@ -18,4 +18,7 @@ Bundle 'tpope/vim-vividchalk'
 "markup language
 Bundle 'tpope/vim-markdown'
 
+"makrup preview
+Bundle 'https://github.com/waylan/vim-markdown-extra-preview'
+
 filetype plugin indent on
