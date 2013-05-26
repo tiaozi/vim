@@ -154,9 +154,6 @@ let NERDSpaceDelims=1
 " nmap <D-/> :NERDComToggleComment<cr>
 let NERDCompactSexyComs=1
 
-" ZenCoding
-let g:user_zen_expandabbr_key='<C-j>'
-
 " powerline
 "let g:Powerline_symbols = 'fancy'
 
@@ -257,3 +254,6 @@ endif
 
 "markdown preview
 au BufWritePost,InsertLeave *.md Mer
+
+"ZenConfig
+let g:use_zen_complete_tag=1

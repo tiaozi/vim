@@ -21,4 +21,6 @@ Bundle 'tpope/vim-markdown'
 "makrup preview
 Bundle 'https://github.com/waylan/vim-markdown-extra-preview'
 
+"sudo
+Bundle 'https://github.com/vim-scripts/sudo.vim'
 filetype plugin indent on
